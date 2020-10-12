@@ -1,0 +1,25 @@
+{
+  "name": "node-command",
+  "version": "1.0.0",
+  "description": "\"# Node-CommandLineTools\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeagwl/Node-CommandLineTools.git"
+  },
+  "author": "Neetu Agarwal",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/neeagwl/Node-CommandLineTools/issues"
+  },
+  "homepage": "https://github.com/neeagwl/Node-CommandLineTools#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
